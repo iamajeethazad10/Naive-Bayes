@@ -18,5 +18,5 @@ Prepare a classification model using Naive Bayes for salary data.
 - CategoricalNB → When you have categorical data.
 - MultinomialNB → Applied to text data.
 
-## **This assignment will study following Question :**
+## **This Notebook will study following Question :**
  1.Prepare a classification model using Naive Bayes for salary data
