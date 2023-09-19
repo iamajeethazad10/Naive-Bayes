@@ -12,3 +12,11 @@ Prepare a classification model using Naive Bayes for salary data.
 - It is a probabilistic classifier, which means it predicts on the basis of the probability of an object.
 
 - Some popular examples of Naïve Bayes Algorithm are spam filtration, Sentimental analysis, and classifying articles.
+
+## **Each algorithm of Naive Bayes expects different types of data.**
+- GaussianNB → When you have continuous features.
+- CategoricalNB → When you have categorical data.
+- MultinomialNB → Applied to text data.
+
+## **This assignment will study following Question :**
+ 1.Prepare a classification model using Naive Bayes for salary data
