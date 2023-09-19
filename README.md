@@ -2,8 +2,8 @@
 Prepare a classification model using Naive Bayes for salary data.
 
 ## **Naive Bayes Algorithm :**
-Markup :
-*Naive Bayes algorithm is a supervised learning algorithm, which is based on Bayes theorem and used for solving classification problems.
+
+-Naive Bayes algorithm is a supervised learning algorithm, which is based on Bayes theorem and used for solving classification problems.
 
 *It is mainly used in text classification that includes a high-dimensional training dataset.
 
